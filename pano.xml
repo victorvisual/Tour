@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.2" apprev="17873" start="node2">
+  <panorama id="node2">
+    <input leveltilesize="510" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingroll="0" height="1500" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="1500">
+      <level predecode="0" preload="0" height="1500" width="1500"/>
+      <level predecode="0" preload="0" height="750" width="750"/>
+      <level predecode="1" preload="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" scaletofit="1" fov="120" fovstereographic="270" tilt="90"/>
+    </view>
+    <userdata author="" datetime="17/03/2021 06:39" copyright="" nodeid="node2" customnodeid="" title="" longitude="" tags="Project" source="" description="" comment="" latitude="" info=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" border="1" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" height="20" enabled="1" borderradius="1" width="180" background="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" title="Sala de Jantar" pan="-192.45" id="Point01" description="" url="{node3}" target="5.6/-14.5/70.0" tilt="-8.8"/>
+      <hotspot skinid="ht_node" title="Cozinha" pan="-89.71" id="Point02" description="" url="{node1}" target="63.2/-12.9/70.0" tilt="-3.02"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" blendtime="2" zoomfov="20" softedge="0" zoomspeed="3" zoomin="0" enabled="1" blendcolor="0x000000" zoomout="0"/>
+    <soundstransition transitiontime="3" enabled="1" crossfade="1"/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="1" syncanimationwithvideo="1" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedkeyboardzoom="0" lockedwheel="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedmouse="0" invertcontrol="1" hideabout="0" rubberband="0" invertwheel="0" contextfullscreen="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingroll="0" height="1500" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="1500">
+      <level predecode="0" preload="0" height="1500" width="1500"/>
+      <level predecode="0" preload="0" height="750" width="750"/>
+      <level predecode="1" preload="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" scaletofit="1" fov="120" fovstereographic="270" tilt="90"/>
+    </view>
+    <userdata author="" datetime="17/03/2021 06:39" copyright="" nodeid="node3" customnodeid="" title="" longitude="" tags="Project" source="" description="" comment="" latitude="" info=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" border="1" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" height="20" enabled="1" borderradius="1" width="180" background="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" title="Cozinha" pan="-200" id="Point01" description="" url="{node1}" target="63.2/-13.7/70.0" tilt="-3.09"/>
+      <hotspot skinid="ht_node" title="Sala Estar" pan="-160.69" id="Point02" description="" url="{node2}" target="7.0/-13.6/70.0" tilt="-3.02"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" blendtime="2" zoomfov="20" softedge="0" zoomspeed="3" zoomin="0" enabled="1" blendcolor="0x000000" zoomout="0"/>
+    <soundstransition transitiontime="3" enabled="1" crossfade="1"/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="1" syncanimationwithvideo="1" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedkeyboardzoom="0" lockedwheel="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedmouse="0" invertcontrol="1" hideabout="0" rubberband="0" invertwheel="0" contextfullscreen="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input leveltilesize="510" levelbias="0.400" overlap="1" levelbiashidpi="1.000" levelingroll="0" height="1500" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="1500">
+      <level predecode="0" preload="0" height="1500" width="1500"/>
+      <level predecode="0" preload="0" height="750" width="750"/>
+      <level predecode="1" preload="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" scaletofit="1" fov="120" fovstereographic="270" tilt="90"/>
+    </view>
+    <userdata author="" datetime="17/03/2021 07:21" copyright="" nodeid="node1" customnodeid="" title="" longitude="" tags="Project" source="" description="" comment="" latitude="" info=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" border="1" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" height="20" enabled="1" borderradius="1" width="180" background="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" title="Sala Estar" pan="-201.15" id="Point01" description="" url="{node2}" target="7.1/-14.0/70.0" tilt="-5.55"/>
+      <hotspot skinid="ht_node" title="Sala Jantar" pan="-163.34" id="Point02" description="" url="{node3}" target="5.2/-14.5/70.0" tilt="-4.53"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" blendtime="2" zoomfov="20" softedge="0" zoomspeed="3" zoomin="0" enabled="1" blendcolor="0x000000" zoomout="0"/>
+    <soundstransition transitiontime="3" enabled="1" crossfade="1"/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="1" syncanimationwithvideo="1" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedkeyboardzoom="0" lockedwheel="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedmouse="0" invertcontrol="1" hideabout="0" rubberband="0" invertwheel="0" contextfullscreen="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" datetime="" copyright="" nodeid="master" customnodeid="" title="" longitude="" tags="" source="" description="" comment="" latitude="" info=""/>
+  </masternode>
+</tour>
